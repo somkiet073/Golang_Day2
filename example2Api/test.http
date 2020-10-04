@@ -1,0 +1,6 @@
+GET http://locahost:8180/GetAllUser HTTP/1.1
+###
+POST http://locahost:8180/ HTTP/1.1
+header name: header value
+
+content

@@ -1,0 +1,7 @@
+app :
+    port : 8099
+mongo :
+    url: "localhost" 
+    port : "27017"
+    username : ""
+    password : ""
